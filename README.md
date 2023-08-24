@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/Genesis-Inc/Space%20Game%20-%20Web/_apis/build/status%2FPatriciablair44.mslearn-tailspin-spacegame-web%20(1)?branchName=main)](https://dev.azure.com/Genesis-Inc/Space%20Game%20-%20Web/_build/latest?definitionId=2&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
